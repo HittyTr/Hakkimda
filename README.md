@@ -1,2 +1,2 @@
-# Hakk-mda
+# Hakkimda
 Bu bir hakkimda klasöürüdür
